@@ -9,7 +9,8 @@ public class A
 		
 	System.out.println("git practice");
 	System.out.println("git practice 2");
-	System.out.println("git practice 3");
+	System.out.println("git practice 3 pull ");
+		
 
 	
 	/*{
